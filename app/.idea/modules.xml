@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BCS421_F22_W6_FragmentsDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/BCS421_F22_W6_FragmentsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BCS421_F22_W6_FragmentsDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BCS421_F22_W6_FragmentsDemo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BCS421_F22_W6_FragmentsDemo.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BCS421_F22_W6_FragmentsDemo.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BCS421_F22_W6_FragmentsDemo.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BCS421_F22_W6_FragmentsDemo.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BCS421_F22_W6_FragmentsDemo.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BCS421_F22_W6_FragmentsDemo.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
